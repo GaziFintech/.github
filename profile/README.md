@@ -20,7 +20,9 @@ Gazi FinTech olarak, geleceğin finans dünyasında etkin rol almak isteyen öğ
 ---
 
 ### 👋 Aramıza Katılın
-Fintech dünyasına adım atmak ve projelerimizde yer almak için [buradaki başvuru formunu](https://forms.gle/s63LMk6LByEHUGho6) doldurabilirsiniz!
+Fintech dünyasına adım atmak ve projelerimizde yer almak için aşağıdaki butona tıklayarak başvurunuzu iletebilirsiniz:
+
+[![Topluluğa Katıl](https://img.shields.io/badge/BAŞVURU-FORMU-brightgreen?style=for-the-badge&logo=github)](https://github.com/GaziFintech/.github/issues/new?template=basvuru.yml)
 
 | Platform | Link |
 | :--- | :--- |
