@@ -9,18 +9,13 @@
 **Gazi Üniversitesi Finansal Teknolojiler Topluluğu**, finans ve teknolojiyi bir araya getiren, öğrencilerin bu dinamik alanda vizyon geliştirmesini hedefleyen yenilikçi bir öğrenci topluluğudur. Geleceğin dijital dünyasında sadece kullanıcı değil, geliştirici olmayı hedefliyoruz. 💡
 
 ---
+### 📌 Genel Bakış
+Gazi FinTech olarak, geleceğin finans dünyasında etkin rol almak isteyen öğrencileri bir araya getiriyor ve onları dijital dönüşüme hazırlıyoruz. 
 
-### 🌐 Odak Alanlarımız
-* **Blockchain & Crypto Assets:** Dağıtık defter teknolojileri ve yeni nesil ekonomi.
-* **Artificial Intelligence:** Finansal analiz ve karar süreçlerinde yapay zeka kullanımı.
-* **Digital Banking:** Bankacılığın evrimi ve Fintech ekosistemi.
-* **Algorithmic Trading:** Veri odaklı finansal stratejiler.
-
-### 🛠️ Neler Sunuyoruz?
-- [x] **Eğitimler:** Temelden ileri seviyeye teknik ve finansal okuryazarlık.
-- [x] **Workshoplar:** Hands-on uygulama ve proje geliştirme süreçleri.
-- [x] **Networking:** Sektör liderleri ve profesyonellerle doğrudan iletişim.
-- [x] **Projeler:** Açık kaynaklı Fintech çözümleri üretme şansı.
+### 🎯 Misyonumuz
+* **Bilgi Paylaşımı:** Finansal teknolojiler, blok zincir, dijital bankacılık, kripto varlıklar ve yapay zekâ gibi alanlarda güncel içerikler üretmek.
+* **Sektör Köprüsü:** Sektör profesyonelleri ile öğrenciler arasında güçlü bağlar kurmak.
+* **Yetkinlik Gelişimi:** Eğitimler, seminerler, atölyeler ve projeler aracılığıyla hem teorik hem de pratik becerileri artırmak.
 
 ---
 
