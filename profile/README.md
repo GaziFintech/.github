@@ -24,11 +24,11 @@ Geleceği bizimle birlikte kodlamak ve finansal dönüşümün bir parçası olm
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [Gazi FinTech](https://www.linkedin.com/company/gazi-finansal-teknolojiler-topluluğu) |
+| **LinkedIn** | [Gazi Finansal Teknolojiler Topluluğu](https://www.linkedin.com/company/gazi-finansal-teknolojiler-topluluğu) |
 | **Instagram** | [@gazifintech](https://instagram.com/gazifintech) |
-| **Web Sitesi** | [gazifintech.org](https://gazifintech.com.tr) |
+| **Web Sitesi** | [gazifintech.com.tr](https://gazifintech.com.tr) |
 
 ---
 <p align="center">
-  <i>"Finansın geleceğini Gazi'de birlikte inşa ediyoruz."</i> 🚀
+  <i>"Yeni nesil finans ekosistemini birlikte inşa ediyoruz."</i> 🚀
 </p>
