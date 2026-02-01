@@ -19,8 +19,8 @@ Gazi FinTech olarak, geleceğin finans dünyasında etkin rol almak isteyen öğ
 
 ---
 
-### 📫 Bize Ulaşın
-Geleceği bizimle birlikte kodlamak ve finansal dönüşümün bir parçası olmak için takipte kalın!
+### 👋 Aramıza Katılın
+Fintech dünyasına adım atmak ve projelerimizde yer almak için [buradaki başvuru formunu](https://forms.gle/s63LMk6LByEHUGho6) doldurabilirsiniz!
 
 | Platform | Link |
 | :--- | :--- |
