@@ -1,3 +1,4 @@
+body:
 name: 🚀 Topluluk Başvurusu
 description: Gazi FinTech topluluğuna katılmak için bu formu doldurun.
 title: "[BAŞVURU]: "
@@ -37,4 +38,5 @@ body:
       label: Neden Gazi FinTech?
       description: Bize kendinizden ve neler katabileceğinizden bahsedin.
     validations:
+
       required: true
