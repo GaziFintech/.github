@@ -1,0 +1,30 @@
+name: "🚀 Topluluk Başvurusu"
+description: "Gazi FinTech topluluğuna katılmak için bu formu doldurun."
+title: "[BAŞVURU]: "
+labels: ["başvuru", "beklemede"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gazi FinTech'e başvurduğunuz için teşekkürler! Lütfen aşağıdaki bilgileri eksiksiz doldurun.
+  - type: input
+    id: name
+    attributes:
+      label: Adınız ve Soyadınız
+      placeholder: örn. Ali Yılmaz
+    validations:
+      required: true
+  - type: input
+    id: department
+    attributes:
+      label: Bölümünüz ve Sınıfınız
+      placeholder: örn. Bilgisayar Mühendisliği - 2. Sınıf
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Neden Gazi FinTech?
+      description: Bize kendinizden ve neler katabileceğinizden bahsedin.
+    validations:
+      required: true
