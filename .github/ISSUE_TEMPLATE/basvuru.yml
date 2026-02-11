@@ -35,9 +35,10 @@ body:
       options:
         - label: Blockchain & Web3
         - label: Yapay Zeka (AI)
-        - label: Algoritmik Ticaret (Algo-Trading)
+        - label: Algoritmik Trading
         - label: Dijital Bankacılık
         - label: Finansal Analiz
+        - label: Veri Analizi
   - type: textarea
     id: motivation
     attributes:
