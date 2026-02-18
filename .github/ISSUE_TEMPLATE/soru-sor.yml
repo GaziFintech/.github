@@ -1,0 +1,68 @@
+name: "❓ Soru Sor / Yardım İste"
+description: "Anlamadığınız bir konu veya kod hatası hakkında yardım isteyin."
+title: "[SORU]: <Kısa Bir Başlık Yazın>"
+labels: ["soru", "yardım-bekliyor"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🚀 Yardım Merkezine Hoş Geldiniz!
+        Sorunuzu ne kadar net açıklarsanız, topluluğun size yardımcı olması o kadar kolaylaşır.
+
+  - type: dropdown
+    id: bolum
+    attributes:
+      label: "Hangi Bölümle İlgili?"
+      description: "Sorunuzun hangi eğitim modülüne ait olduğunu seçin."
+      options:
+        - "Bölüm 1: Python Temelleri"
+        - "Bölüm 2: NumPy"
+        - "Bölüm 3: Pandas"
+        - "Bölüm 4: Görselleştirme"
+        - "Bölüm 5: Veri Bilimi Projeleri"
+        - "Diğer / Genel"
+    validations:
+      required: true
+
+  - type: input
+    id: repo_link
+    attributes:
+      label: "İlgili Repo veya Dosya Linki"
+      description: "Hata aldığınız kodun linkini (Colab veya GitHub) buraya ekleyin."
+      placeholder: "https://github.com/..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Sorun Nedir?"
+      description: "Neyi başarmaya çalışıyorsunuz ve nerede takıldınız?"
+      placeholder: "Hata mesajını veya anlamadığınız mantığı buraya yazın..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: denemeler
+    attributes:
+      label: "Neleri Denediniz?"
+      description: "Çözüm için şimdiye kadar hangi adımları attınız? (Transkript puanı için önemlidir!)"
+      placeholder: "Stackoverflow'a baktım, şu fonksiyonu denedim ama olmadı..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: onay
+    attributes:
+      label: "Ön Kontrol Listesi"
+      options:
+        - label: "Ders kaynaklarını tekrar inceledim."
+          required: true
+        - label: "Benzer bir sorunun daha önce sorulup sorulmadığını kontrol ettim."
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        **Not:** Bu soruya cevap veren kişiler transkript sistemi üzerinden **ekstra puan** kazanacaktır! 🏆
