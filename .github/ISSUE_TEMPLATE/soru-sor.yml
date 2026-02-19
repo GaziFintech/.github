@@ -13,14 +13,33 @@ body:
     id: bolum
     attributes:
       label: "Hangi Bölümle İlgili?"
-      description: "Sorunuzun hangi eğitim modülüne ait olduğunu seçin."
+      description: "Sorunuzun hangi ders içeriğiyle ilgili olduğunu seçiniz."
       options:
-        - "Bölüm 1: Python Temelleri"
-        - "Bölüm 2: NumPy"
-        - "Bölüm 3: Pandas"
-        - "Bölüm 4: Görselleştirme"
-        - "Bölüm 5: Veri Bilimi Projeleri"
-        - "Diğer / Genel"
+        - "1. Python Temelleri"
+        - "2. NumPy ile Sayısal Hesaplama"
+        - "3. Pandas ile Veri Manipülasyonu"
+        - "4. Matplotlib ile Veri Görselleştirme"
+        - "5. Veri Bilimi Projeleri"
+        - "6. Makine Öğrenmesine Giriş"
+        - "7. Makine Öğrenmesi Temelleri"
+        - "8. Supervised Learning - Regresyon"
+        - "9. Supervised Learning - Sınıflandırma"
+        - "10. Ensemble Methods"
+        - "11. Unsupervised Learning"
+        - "12. Model Değerlendirme ve Seçimi"
+        - "13. Temel Derin Öğrenmeye Giriş"
+        - "14. Kaggle Projeleri (Başlangıç)"
+        - "15. İleri Derin Öğrenme ve Optimizasyon"
+        - "16. Convolutional Neural Networks (CNN)"
+        - "17. Recurrent Neural Networks (RNN)"
+        - "18. Transformer Architecture"
+        - "19. Reinforcement Learning"
+        - "20. Generative Adversarial Networks (GANs)"
+        - "21. Natural Language Processing (NLP)"
+        - "22. Large Language Models (LLM)"
+        - "23. Framework Mastery (TF/PyTorch)"
+        - "24. Model Deployment ve Production"
+        - "25. Kaggle Projeleri (İleri Seviye)"
     validations:
       required: true
 
@@ -57,6 +76,8 @@ body:
       label: "Ön Kontrol Listesi"
       options:
         - label: "Ders kaynaklarını tekrar inceledim."
+          required: true
+        - label: "Google/StackOverflow üzerinden benzer hataları araştırdım."
           required: true
         - label: "Benzer bir sorunun daha önce sorulup sorulmadığını kontrol ettim."
           required: true
