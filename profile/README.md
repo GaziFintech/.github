@@ -25,7 +25,7 @@ Eğitim süreçlerimizi ve serbest projelerimizi iki ana merkezden yönetiyoruz:
 
 | 📘 **Eğitim Merkezi (Academy)** | 🚀 **İnovasyon Laboratuvarı (Lab)** |
 | :---: | :---: |
-| Sıfırdan ileri seviyeye 25 haftalık Yapay Zeka müfredatı. | Serbest projeler, Kaggle yarışmaları ve topluluk denemeleri. |
+| Sıfırdan ileri seviyeye 25 bölümlük Yapay Zeka müfredatı. | Serbest projeler, Kaggle yarışmaları ve topluluk denemeleri. |
 | [![Eğitimi İncele](https://img.shields.io/badge/EĞİTİMİ--İNCELE-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/GaziFintech/AI-YapayZeka-Egitimi) | [![Üretime Katıl](https://img.shields.io/badge/ÜRETİME--KATIL-orange?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/GaziFintech/AI-Project-Playground) |
 
 ---
