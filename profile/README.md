@@ -19,6 +19,17 @@ Gazi FinTech olarak, geleceğin finans dünyasında etkin rol almak isteyen öğ
 
 ---
 
+### 🎓 AI Academy & Innovation Lab
+
+Eğitim süreçlerimizi ve serbest projelerimizi iki ana merkezden yönetiyoruz:
+
+| 📘 **Eğitim Merkezi (Academy)** | 🚀 **İnovasyon Laboratuvarı (Lab)** |
+| :---: | :---: |
+| Sıfırdan ileri seviyeye 25 haftalık Yapay Zeka müfredatı. | Serbest projeler, Kaggle yarışmaları ve topluluk denemeleri. |
+| [![Eğitimi İncele](https://img.shields.io/badge/EĞİTİMİ--İNCELE-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/GaziFintech/AI-YapayZeka-Egitimi) | [![Üretime Katıl](https://img.shields.io/badge/ÜRETİME--KATIL-orange?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/GaziFintech/AI-Project-Playground) |
+
+---
+
 ### 👋 Aramıza Katılın
 Fintech dünyasına adım atmak ve projelerimizde yer almak için aşağıdaki butona tıklayarak başvurunuzu iletebilirsiniz:
 
