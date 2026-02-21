@@ -37,7 +37,7 @@ Fintech dünyasına adım atmak ve projelerimizde yer almak için aşağıdaki b
 
  | Bize Ulaşın |
  | :--- |
- [![Website]](https://gazifintech.com.tr) |
+ [![Website](https://img.shields.io/badge/gazifintech.com.tr-101654?style=flat-square&logoWidth=25&logo=https://raw.githubusercontent.com/GaziFintech/.github/main/profile/Gazi%20fintech%20sonson%205-photoaidcom-cropped%20(1).png)](https://www.gazifintech.com.tr) |
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/company/gazi-finansal-teknolojiler-topluluğu) |
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gazifintech) |
 
