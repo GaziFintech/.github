@@ -26,7 +26,7 @@ Eğitim süreçlerimizi ve serbest projelerimizi iki ana merkezden yönetiyoruz:
 | 📘 **Eğitim Merkezi (Academy)** | 🚀 **İnovasyon Laboratuvarı (Lab)** |
 | :---: | :---: |
 | Sıfırdan ileri seviyeye 25 bölümlük Yapay Zeka müfredatı. | Serbest projeler, Kaggle yarışmaları ve topluluk denemeleri. |
-| [![Eğitimi İncele](https://img.shields.io/badge/EĞİTİMİ--İNCELE-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/GaziFintech/AI-YapayZeka-Egitimi) | [![Üretime Katıl](https://img.shields.io/badge/ÜRETİME--KATIL-orange?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/GaziFintech/AI-Project-Playground) |
+| [![Eğitimi İncele](https://img.shields.io/badge/EĞİTİMİ--İNCELE-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/GaziFintech/AI-YapayZeka-Egitimi) | [![Üretime Katıl](https://img.shields.io/badge/ÜRETİME--KATIL-orange?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/GaziFintech/AI-Community-Lab) |
 
 ---
 
@@ -35,11 +35,11 @@ Fintech dünyasına adım atmak ve projelerimizde yer almak için aşağıdaki b
 
 [![Topluluğa Katıl](https://img.shields.io/badge/BAŞVURU-FORMU-brightgreen?style=for-the-badge&logo=github)](https://github.com/GaziFintech/.github/issues/new?template=basvuru.yml)
 
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [Gazi Finansal Teknolojiler Topluluğu](https://www.linkedin.com/company/gazi-finansal-teknolojiler-topluluğu) |
-| **Instagram** | [@gazifintech](https://instagram.com/gazifintech) |
-| **Web Sitesi** | [gazifintech.com.tr](https://gazifintech.com.tr) |
+ | Bize Ulaşın |
+ | :--- |
+ [![Website]](https://gazifintech.com.tr) |
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/company/gazi-finansal-teknolojiler-topluluğu) |
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gazifintech) |
 
 ---
 <p align="center">
